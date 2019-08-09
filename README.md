@@ -16,6 +16,9 @@ https://www.digitalocean.com/community/tutorials/how-to-reset-your-mysql-or-mari
 ## Setup Mod Rewrite in Apache for cleaner URLs
 https://www.digitalocean.com/community/tutorials/how-to-rewrite-urls-with-mod_rewrite-for-apache-on-ubuntu-16-04
 
+## Install Git
+https://www.digitalocean.com/community/tutorials/how-to-install-git-on-ubuntu-18-04
+
 ## Install Composer and NodeJS
 https://www.digitalocean.com/community/tutorials/how-to-install-and-use-composer-on-ubuntu-18-04
 https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-18-04
@@ -23,5 +26,11 @@ https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubunt
 ## Deploy Laravel to DigitalOcean
 https://medium.com/@franciscojbarrera/how-to-deploy-laravel-on-digital-ocean-lamp-e69046906fe
 
-## Setup SSL Certificates with LetsEncrypt
+
+## Advanced Setup
+
+### Setup Virtual Hosts
+https://www.digitalocean.com/community/tutorials/how-to-set-up-apache-virtual-hosts-on-ubuntu-16-04
+
+### Setup SSL Certificates with LetsEncrypt
 https://www.digitalocean.com/community/tutorials/how-to-secure-apache-with-let-s-encrypt-on-ubuntu-18-04
