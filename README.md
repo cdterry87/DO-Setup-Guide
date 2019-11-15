@@ -34,3 +34,7 @@ https://www.digitalocean.com/community/tutorials/how-to-set-up-apache-virtual-ho
 
 ### Setup SSL Certificates with LetsEncrypt
 https://www.digitalocean.com/community/tutorials/how-to-secure-apache-with-let-s-encrypt-on-ubuntu-18-04
+
+
+#### Bonus - Setting up SSL Cert with a wildcard
+sudo certbot certonly --manual --preferred-challenges=dns --server=https://acme-v02.api.letsencrypt.org/directory --agree-tos -d yourtld.com, *.yourtld.com
