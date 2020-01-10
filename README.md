@@ -38,5 +38,5 @@ https://www.digitalocean.com/community/tutorials/how-to-secure-apache-with-let-s
 
 #### Bonus - Setting up SSL Cert with a wildcard
 ```
-sudo certbot certonly --manual --preferred-challenges=dns --server=https://acme-v02.api.letsencrypt.org/directory --agree-tos -d yourtld.com, *.yourtld.com
+sudo certbot certonly --manual --preferred-challenges=dns --server=https://acme-v02.api.letsencrypt.org/directory --agree-tos -d yourtld.com,*.yourtld.com
 ```
